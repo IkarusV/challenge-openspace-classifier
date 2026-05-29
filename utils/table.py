@@ -6,7 +6,7 @@ class Seat:
     def __init__(self, free: bool = True, occupant: str = None):
         self.free = free
         self.occupant = occupant
-    def set_occupant(self, occupant: str)->:
+    def set_occupant(self, occupant: str):
         """Set the occupant of the seat and mark it as occupied.
         :param occupant: A string representing the name of the occupant to be assigned to the seat.
         :return: None. The function will modify the state of the Seat instance by setting the occupant and marking the seat as occupied."""

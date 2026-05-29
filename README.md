@@ -4,7 +4,7 @@
 
 This is a program designed to promote teamwork in the workspace, specially in open space.
 
-It's function are to take a list of name from a ***new_colleagues.cvs*** 
+It's function are to take a list of name from a *new_colleagues.cvs* 
 
 Then to shuffle those names in randoms tables, so they can be distributed each time differantly and make people get used to working wiht everoyne, who in return will make everyone more efficient.
 

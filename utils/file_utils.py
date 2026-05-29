@@ -1,3 +1,8 @@
+def load_config(filepath: str) -> dict:
+    import json
+    with open(filepath, "r") as f:
+        return json.load(f)
+
 def get_names_by_lines(filepath: str) -> list:
     """Function that will read names from a file, one by line.
 
