@@ -1,30 +1,30 @@
 Table 1:
-  - Seat: Occupied by Mahalakshmi
-  - Seat: Occupied by Vanessa
-  - Seat: Occupied by Jeong
-  - Seat: Occupied by Sooyoung
+  - Seat: Occupied by Victor
+  - Seat: Occupied by Hussein
+  - Seat: Occupied by Neha
+  - Seat: Occupied by Uzair
 Table 2:
   - Seat: Occupied by Hiba
-  - Seat: Occupied by Ibtihel
-  - Seat: Occupied by Gaetan
-  - Seat: Occupied by Max
-Table 3:
-  - Seat: Occupied by Stephane
-  - Seat: Occupied by Dan
-  - Seat: Occupied by Irene
-  - Seat: Occupied by Iness
-Table 4:
-  - Seat: Occupied by Gunay
+  - Seat: Occupied by Mahalakshmi
   - Seat: Occupied by Imad
-  - Seat: Occupied by Sitara
   - Seat: Occupied by Ibrahim
-Table 5:
-  - Seat: Occupied by Victor
-  - Seat: Occupied by Anna
-  - Seat: Occupied by Guillermo
-  - Seat: Occupied by Uzair
-Table 6:
-  - Seat: Occupied by Hussein
-  - Seat: Occupied by Thi
+Table 3:
+  - Seat: Occupied by Sooyoung
   - Seat: Occupied by Siegried
-  - Seat: Occupied by Neha
+  - Seat: Occupied by Anna
+  - Seat: Occupied by Irene
+Table 4:
+  - Seat: Occupied by Max
+  - Seat: Occupied by Sitara
+  - Seat: Occupied by Thi
+  - Seat: Occupied by Stephane
+Table 5:
+  - Seat: Occupied by Ibtihel
+  - Seat: Occupied by Jeong
+  - Seat: Occupied by Vanessa
+  - Seat: Occupied by Gunay
+Table 6:
+  - Seat: Occupied by Dan
+  - Seat: Occupied by Iness
+  - Seat: Occupied by Guillermo
+  - Seat: Occupied by Gaetan
